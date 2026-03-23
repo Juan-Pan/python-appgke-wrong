@@ -47,5 +47,6 @@ The main workflow is located at `.github/workflows/deploy.yml` and is triggered 
 - `GKE_CLUSTER` – GKE cluster name.
 - `GKE_ZONE` – Cluster zone (e.g. `us-central1-a`).
 - `GCP_SA_KEY` – JSON key for a service account with deploy and storage permissions.
+### prueba con el repo malo
 
 
